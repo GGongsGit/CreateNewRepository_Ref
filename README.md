@@ -15,6 +15,7 @@ Create repository 버튼 클릭
 
 
 Step3) “uploading an existing file” 클릭 후 file 업로드   (뭐라도 해야 파일 list가 보임) - pin 클릭 (option)
+        ------------------------------------------------
         화면 중간 가운데 부분 파란색 작은 글씨에서 찾아야 됨
 
 <img width="672" height="373" alt="image" src="https://github.com/user-attachments/assets/ad73b38d-419a-4c95-9745-0998634a759f" />
